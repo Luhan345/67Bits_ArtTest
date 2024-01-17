@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Caixa de som
+  m_Shader: {fileID: 4800000, guid: 1d10c7840eb6ba74c889a27f14ba6081, type: 3}
+  m_Parent: {fileID: 2100000, guid: e7230864bb134164c8c1a6297877f602, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _EMISSIVE_SIMPLE
+  - _OUTLINE_NML
+  m_InvalidKeywords:
+  - _
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _1st_ShadeColor_Feather: 0.749
+    - _1st_ShadeColor_Step: 1
+    - _2nd_ShadeColor_Step: 0.047
+    - _BaseColor_Step: 1
+    - _BaseShade_Feather: 0.749
+    - _Is_BlendAddToHiColor: 1
+    - _Is_SpecularToHighColor: 0
+    - _RimLight: 1
+    - _RimLight_Power: 0.558
+    - _ShadeColor_Step: 0.047
+    m_Colors:
+    - _1st_ShadeColor: {r: 0, g: 0, b: 0, a: 1}
+    - _BaseColor: {r: 0.5698112, g: 0.5698112, b: 0.5698112, a: 1}
+    - _Color: {r: 0.5698112, g: 0.5698112, b: 0.5698112, a: 1}
+  m_BuildTextureStacks: []
